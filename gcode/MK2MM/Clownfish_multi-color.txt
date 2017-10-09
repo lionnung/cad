@@ -1,0 +1,4 @@
+ext1 ¡V face
+ext2 ¡V thin stripes
+ext3 ¡V eyes
+ext4 ¡V thick stripes
