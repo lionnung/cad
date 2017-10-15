@@ -1,0 +1,2 @@
+cut    ¡V 0.9
+infill ¡V 70%
